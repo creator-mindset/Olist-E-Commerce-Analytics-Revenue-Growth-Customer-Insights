@@ -1,5 +1,5 @@
 # 🛒 Olist E-Commerce Sales Analysis using SQL
-
+![Olist Dashboard](https://raw.githubusercontent.com/creator-mindset/Olist-E-Commerce-Analytics-Revenue-Growth-Customer-Insights/main/Olist%20Image.png)
 ## 📌 Project Overview
 
 This project focuses on analyzing a real-world e-commerce dataset (Olist) to extract meaningful business insights related to sales performance, customer behavior, and product trends.
