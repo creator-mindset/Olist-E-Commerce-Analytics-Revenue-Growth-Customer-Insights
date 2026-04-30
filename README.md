@@ -34,7 +34,7 @@ The dataset simulates real-world business scenarios with thousands of transactio
 ## ⚙️ Tools & Technologies
 
 * **SQL (MySQL)** → Data querying and analysis
-* **Excel** → Data preprocessing and validation
+
 
 ---
 
@@ -92,13 +92,8 @@ The dataset simulates real-world business scenarios with thousands of transactio
 
 ---
 
-## 📁 Project Structure
 
-```
-/data        → Raw dataset files (CSV)
-/sql         → SQL scripts (schema + analysis queries)
-README.md    → Project documentation
-```
+
 
 ---
 
